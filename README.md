@@ -1,4 +1,4 @@
-# React.jsx Template
+# React.jsx Template ( *｀ω´)
 
 #### cloned originally from @alchemycodelab/app@latest on 2.9.2022 with the following changes: 
   - css loader module changed from "true" to "false"
