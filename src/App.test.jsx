@@ -3,6 +3,7 @@ import { rest } from 'msw';
 import { setupServer } from 'msw/node';
 import App from './App';
 import { data } from './services/data';
+import userEvent from '@testing-library/user-event';
 
 //use if using api server
 const server = setupServer(
